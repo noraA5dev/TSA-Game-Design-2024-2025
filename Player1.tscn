@@ -1,0 +1,8 @@
+[gd_scene format=3 uid="uid://c0klsferp3hi3"]
+
+[node name="CharacterBody2D" type="CharacterBody2D"]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2(-1, -1)
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
